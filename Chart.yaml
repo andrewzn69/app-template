@@ -1,0 +1,11 @@
+apiVersion: v2
+name: app-template
+description: Generic application chart wrapping the common library chart
+type: application
+version: 1.0.0
+maintainers:
+  - name: andrewzn69
+dependencies:
+  - name: common
+    version: "3.0.8"
+    repository: oci://ghcr.io/andrewzn69
