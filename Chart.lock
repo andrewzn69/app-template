@@ -1,6 +1,6 @@
 dependencies:
 - name: common
   repository: oci://ghcr.io/andrewzn69
-  version: 3.3.0
-digest: sha256:f64f91cfee633af56e4f96b3748772e2e0622e8cbbae18a7da1ad56099c8f062
-generated: "2026-08-27T20:08:04.254115004+02:00"
+  version: 3.5.0
+digest: sha256:0663898df7fed948e94787af66d299fb0c72eab8602122ac9c1c4e671bd34a76
+generated: "2026-09-13T00:47:03.684444372+02:00"
